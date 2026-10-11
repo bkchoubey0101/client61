@@ -1,0 +1,12 @@
+{
+  "name": "soundrya-beauty-parlour",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static frontend for Soundrya Beauty Parlour",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
